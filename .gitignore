@@ -1,0 +1,10 @@
+# NPM-Generated Files
+node_modules/
+
+# Caches
+.sass-cache
+
+# Compiled Assets
+out/css
+out/js
+out/svg

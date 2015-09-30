@@ -1,0 +1,22 @@
+{
+  "name": "tie-breaker",
+  "description": "A quick react app to make the hard calls",
+  "version": "0.1.1",
+  "author": "Josh <josh@joshdcompton.com>",
+  "homepage": "http://joshdcompton.com",
+  "repository": {
+    "type": "git",
+    "url": "git://@github.com:HBOCodeLabs/Micro-Ballers.git"
+  },
+  "engine": "node *",
+  "devDependencies": {
+      "grunt": "*",
+      "grunt-contrib-watch": "*",
+      "grunt-contrib-concat": "*",
+      "grunt-contrib-sass": "*",
+      "grunt-contrib-uglify": "*",
+      "grunt-autoprefixer": "*",
+      "grunt-svgstore": "*",
+      "load-grunt-tasks": "^3.3.0"
+  }
+}
